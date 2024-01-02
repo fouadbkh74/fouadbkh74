@@ -1,2 +1,2 @@
-#rojet langage c
-## using git
+## projet langage c
+# using git
